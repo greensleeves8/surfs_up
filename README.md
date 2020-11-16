@@ -1,4 +1,4 @@
-# Surfs up: data storage and retrieval with 
+# Surfs Up! 
 
 Exploring Weather data: data storage and retrieval with SQLite, SQLAlchemy, and Flask
 
